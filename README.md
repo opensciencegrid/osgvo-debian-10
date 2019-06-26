@@ -1,2 +1,2 @@
 # osgvo-debian-10
-OSGVO's Debian 10 image for Singularity based jobs
+OSG VO's Debian 10 (Buster) base image
